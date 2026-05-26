@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerealidate",
+        "uuid": 5885520,
+        "checksum": "xd9f8"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
